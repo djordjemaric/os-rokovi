@@ -1,0 +1,2 @@
+Magic happens to this message!
+This message will go to file along with magic message!

@@ -1,0 +1,4 @@
+ls -l
+tail komande.txt
+stat 1.txt 
+head 1.txt 
